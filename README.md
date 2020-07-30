@@ -9,7 +9,7 @@
 *Authors*
 
 ## PPT Presentation ##
-![](Assets/9CC7B0Q5gG.gif)
+![](Assets/PPTPResentation.gif)
 
 ## Overview ##
 ### Main Question ###
@@ -28,30 +28,21 @@ null hypothesis - There is no difference between geographic location and car sal
 * Chicago, IL
 * New York, NY
 
-## Running Codes ##
-*Number of Listings per City*
-![](Assets/coding%201.png)
+## Running Codes - Some Examples ##
+*Cleanning some data and exporting them in a csv file*
+![](Assets/cleanning%20data.png)
 
-*Year Model for NY*
-![](Assets/coding%202.png)
+*Searching at specific data using loc function*
+![](Assets/loc.png)
 
-*Price Average, Year Average and Mileage Average for the city of Houston*
-![](Assets/coding%203.png)
+*Arrenging data using append function*
+![](Assets/append.png)
 
-*Price Average, Year Average, Mileage Average and Number of Listings for the 10 cities*
-![](Assets/coding%204.png)
+*Making plot bar after reading csv files*
+![](Assets/plot%20bar.png)
 
-*Income stats for all the cities (before cleanup)*
-![](Assets/coding%205.png)
-
-*Scatter Plot Graph showing the Average temperatures compare to the total listings per city*
-![](Assets/coding%206.png)
-
-*Cleaning up of the weathe data for our ten cities*
-![](Assets/coding%207.png)
-
-After each plot add a sentence or too explaining what the code is and analyzing.
-Your second requirement is to run linear regression on each relationship, only this time separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
+*Making scatter plot after reading csv files*
+![](Assets/scattered%20plot.png)
 
 ## Figures (Some Examples) ##
 ![](data/Figures/Average%20Mileage%20vs%20Average%20Temp%20(C)%20by%20City.png)
